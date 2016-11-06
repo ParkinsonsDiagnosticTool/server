@@ -11,7 +11,6 @@ How To Use This
 ---------------
 
 1. Run `pip install -r requirements.txt` to install dependencies.
+2. Install octave and oct2py.
 2. Run `python app.py`. This starts the server. 
 3. Install and run the mobile app to detect the disease.
-
-
