@@ -14,3 +14,6 @@ How To Use This
 2. Install octave and oct2py.
 2. Run `python app.py`. This starts the server. 
 3. Install and run the mobile app to detect the disease.
+
+More info on the tool and instructions can be found in the below link
+https://devpost.com/software/parkinson-s-diagnostic-tool
